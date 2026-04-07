@@ -7,9 +7,10 @@
 			<file name="item-hex.xml" url="https://raw.githubusercontent.com/insamniacsculpt/aurora2020on/master/item-hex.xml" />
 		</update>
 	</info>
-	<element name="Hex Purity 1" type="Item" source="Nullification of Novus" id="ID_ITEM_HEX_PURITY_1">
+	<element name="Hex Purity 1" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_HEX_PURITY_1">
+		<supports>ID_INTERNAL_HEX</supports>
 		<description>
-			<p>A vial of a magic drug that empowers the user with the ability to cast a single Level 1 spell of the defined Hex type, and any cantrips</p>	
+			<p>A vial of a magic drug that empowers the user with the ability to cast a single Level 1 spell of the defined Hex type, and any cantrips.</p>	
 		</description>
 		<setters>
 			<set name="category">Hex</set>
@@ -20,13 +21,16 @@
 		</setters>
 	</element>
 	
-	<element name="Evocation" type="Item" source="Nullification of Novus" id="ID_ITEM_HEX_EVOCATION">
+	<element name="Evocation" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_HEX_EVOCATION">
 		<description>
 			<p>This Hex allows the casting of a single Evocation spell and any cantrips</p>	
 		</description>
 		<setters>
 			<set name="category">Hex Types</set>
 			<set name="type" addition="any">Hex</set>
+			<set name="enhancement">Evocation</set>
+			<set name="hex">ID_INTERNAL_HEX</set>
+			<set name="name-format">{{parent}} {{enhancement}}</set>
 		</setters>
 	</element>
 </elements>
