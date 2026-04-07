@@ -11,7 +11,7 @@
 	<files>	
 
 		<!-- items -->
-		<file name="item-glorbo.xml" url="https://raw.githubusercontent.com/insamniacsculpt/Aurora2020on/master/item-glorbo.xml" />
+		<file name="item-hex.xml" url="https://raw.githubusercontent.com/insamniacsculpt/Aurora2020on/master/item-hex.xml" />
 
 	</files>
 </index>
