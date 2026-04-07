@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index>
 	<info>
-		<name>Glorbo</name>
-		<description>This is the Glorbo book for Glorbo</description>
+		<name>Nullification of Novus</name>
+		<description>This is the source for the homebrew campaign Nullification of Novus</description>
 		<author url="https://www.youtube.com/@InsamniacFilms">Insamniac</author>
 		<update version="0.2">
-			<file name="glorbo.index" url="https://raw.githubusercontent.com/insamniacsculpt/Aurora2020on/master/glorbo.index" />
+			<file name="nullification-of-novus.index" url="https://raw.githubusercontent.com/insamniacsculpt/Aurora2020on/master/nullification-of-novus.index" />
 		</update>
 	</info>
 	<files>	
