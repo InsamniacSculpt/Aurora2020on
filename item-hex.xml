@@ -8,7 +8,7 @@
 		</update>
 	</info>
 	<element name="Hex Purity 1" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_HEX_PURITY_1">
-		<supports>ID_INTERNAL_HEX_PURITY</supports>
+		<supports>ID_INTERNAL_GROUP_HEX_PURITY</supports>
 		<description>
 			<p>A vial of a magic drug that empowers the user with the ability to cast a single Level 1 spell of the defined Hex type, and any cantrips.</p>	
 		</description>
@@ -22,7 +22,7 @@
 	</element>
 
 		<element name="Hex Purity 2" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_HEX_PURITY_2">
-		<supports>ID_INTERNAL_HEX_PURITY</supports>
+		<supports>ID_INTERNAL_GROUP_HEX_PURITY</supports>
 		<description>
 			<p>A vial of a magic drug that empowers the user with the ability to cast a single Level 2 spell of the defined Hex type, and any cantrips.</p>	
 		</description>
@@ -43,7 +43,7 @@
 			<set name="category">Hex Types</set>
 			<set name="type" addition="any">Hex Purity</set>
 			<set name="school">Evocation</set>
-			<set name="hex">ID_INTERNAL_HEX_PURITY</set>
+			<set name="hex">ID_INTERNAL_GROUP_HEX_PURITY</set>
 			<set name="name-format">{{parent}} {{school}}</set>
 		</setters>
 	</element>
