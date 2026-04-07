@@ -5,13 +5,13 @@
 		<description>This is the source for the homebrew campaign Nullification of Novus</description>
 		<author url="https://www.youtube.com/@InsamniacFilms">Insamniac</author>
 		<update version="0.2">
-			<file name="nullification-of-novus.index" url="https://raw.githubusercontent.com/insamniacsculpt/Aurora2020on/master/nullification-of-novus.index" />
+			<file name="nullification-of-novus.index" url="https://raw.githubusercontent.com/insamniacsculpt/AuroraHomebrew/master/nullification-of-novus.index" />
 		</update>
 	</info>
 	<files>	
 
 		<!-- items -->
-		<file name="item-hex.xml" url="https://raw.githubusercontent.com/insamniacsculpt/Aurora2020on/master/item-hex.xml" />
+		<file name="item-hex.xml" url="https://raw.githubusercontent.com/insamniacsculpt/AuroraHomebrew/master/item-hex.xml" />
 
 	</files>
 </index>
