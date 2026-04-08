@@ -317,12 +317,223 @@ ________________________________________________________________________________
 			<p>A vial of a magic drug that empowers the user with the ability to cast a single Level 3 Conjuration spell, and any cantrips.</p>	
 		</description>
 		<setters>
-				<set name="category">Hex</set>
+			<set name="category">Hex</set>
 			<set name="cost" currency="gp">45</set>
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Rare</set>
 		</setters>
 	</element>
+___________________________________________________________________________________________________________________________________________________
+			<element name="Hex Purity 4 Abjuration" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_HP4A">
+		<description>
+			<p>A vial of a magic drug that empowers the user with the ability to cast a single Level 4 Abjuration spell, and any cantrips.</p>	
+		</description>
+		<setters>
+			<set name="category">Hex</set>
+			<set name="cost" currency="gp">60</set>
+			<set name="weight" lb="8">0.2 lbs.</set>
+			<set name="type">Hex</set>
+			<set name="rarity">Very Rare</set>
+		</setters>
+	</element>
+
+		<element name="Hex Purity 4 Illusion" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_HP4I">
+		<description>
+			<p>A vial of a magic drug that empowers the user with the ability to cast a single Level 4 Illusion spell, and any cantrips.</p>	
+		</description>
+		<setters>
+			<set name="category">Hex</set>
+			<set name="cost" currency="gp">60</set>
+			<set name="weight" lb="8">0.2 lbs.</set>
+			<set name="type">Hex</set>
+			<set name="rarity">Very Rare</set>
+		</setters>
+	</element>
+
+	<element name="Hex Purity 4 Enchantment" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_HP4E">
+		<description>
+			<p>A vial of a magic drug that empowers the user with the ability to cast a single Level 4 Enchantment spell, and any cantrips.</p>	
+		</description>
+		<setters>
+			<set name="category">Hex</set>
+			<set name="cost" currency="gp">60</set>
+			<set name="weight" lb="8">0.2 lbs.</set>
+			<set name="type">Hex</set>
+			<set name="rarity">Very Rare</set>
+		</setters>
+	</element>
+
+	<element name="Hex Purity 4 Divination" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_HP4D">
+		<description>
+			<p>A vial of a magic drug that empowers the user with the ability to cast a single Level 4 Divination spell, and any cantrips.</p>	
+		</description>
+		<setters>
+			<set name="category">Hex</set>
+			<set name="cost" currency="gp">60</set>
+			<set name="weight" lb="8">0.2 lbs.</set>
+			<set name="type">Hex</set>
+			<set name="rarity">Very Rare</set>
+		</setters>
+	</element>
 	
+	<element name="Hex Purity 4 Evocation" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_HP4EV">
+		<description>
+			<p>A vial of a magic drug that empowers the user with the ability to cast a single Level 4 Evocation spell, and any cantrips.</p>	
+		</description>
+		<setters>
+			<set name="category">Hex</set>
+			<set name="cost" currency="gp">60</set>
+			<set name="weight" lb="8">0.2 lbs.</set>
+			<set name="type">Hex</set>
+			<set name="rarity">Very Rare</set>
+		</setters>
+	</element>
+
+	<element name="Hex Purity 4 Transmutation" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_HP4T">
+		<description>
+			<p>A vial of a magic drug that empowers the user with the ability to cast a single Level 4 Transmutation spell, and any cantrips.</p>	
+		</description>
+		<setters>
+			<set name="category">Hex</set>
+			<set name="cost" currency="gp">60</set>
+			<set name="weight" lb="8">0.2 lbs.</set>
+			<set name="type">Hex</set>
+			<set name="rarity">Very Rare</set>
+		</setters>
+	</element>
+
+	
+	<element name="Hex Purity 4 Necromancy" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_HP4N">
+		<description>
+			<p>A vial of a magic drug that empowers the user with the ability to cast a single Level 4 Necromancy spell, and any cantrips.</p>	
+		</description>
+		<setters>
+			<set name="category">Hex</set>
+			<set name="cost" currency="gp">60</set>
+			<set name="weight" lb="8">0.2 lbs.</set>
+			<set name="type">Hex</set>
+			<set name="rarity">Very Rare</set>
+		</setters>
+	</element>
+
+	
+	<element name="Hex Purity 4 Conjuration" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_HP4C">
+		<description>
+			<p>A vial of a magic drug that empowers the user with the ability to cast a single Level 4 Conjuration spell, and any cantrips.</p>	
+		</description>
+		<setters>
+			<set name="category">Hex</set>
+			<set name="cost" currency="gp">60</set>
+			<set name="weight" lb="8">0.2 lbs.</set>
+			<set name="type">Hex</set>
+			<set name="rarity">Very Rare</set>
+		</setters>
+	</element>
+___________________________________________________________________________________________________________________________________________________
+			<element name="Hex Purity 5 Abjuration" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_HP5A">
+		<description>
+			<p>A vial of a magic drug that empowers the user with the ability to cast a single Level 5 Abjuration spell, and any cantrips.</p>	
+		</description>
+		<setters>
+			<set name="category">Hex</set>
+			<set name="cost" currency="gp">100</set>
+			<set name="weight" lb="8">0.2 lbs.</set>
+			<set name="type">Hex</set>
+			<set name="rarity">Legendary</set>
+		</setters>
+	</element>
+
+		<element name="Hex Purity 5 Illusion" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_HP5I">
+		<description>
+			<p>A vial of a magic drug that empowers the user with the ability to cast a single Level 5 Illusion spell, and any cantrips.</p>	
+		</description>
+		<setters>
+			<set name="category">Hex</set>
+			<set name="cost" currency="gp">100</set>
+			<set name="weight" lb="8">0.2 lbs.</set>
+			<set name="type">Hex</set>
+			<set name="rarity">Legendary</set>
+		</setters>
+	</element>
+
+	<element name="Hex Purity 5 Enchantment" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_HP5E">
+		<description>
+			<p>A vial of a magic drug that empowers the user with the ability to cast a single Level 5 Enchantment spell, and any cantrips.</p>	
+		</description>
+		<setters>
+			<set name="category">Hex</set>
+			<set name="cost" currency="gp">100</set>
+			<set name="weight" lb="8">0.2 lbs.</set>
+			<set name="type">Hex</set>
+			<set name="rarity">Legendary</set>
+		</setters>
+	</element>
+
+	<element name="Hex Purity 5 Divination" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_HP5D">
+		<description>
+			<p>A vial of a magic drug that empowers the user with the ability to cast a single Level 5 Divination spell, and any cantrips.</p>	
+		</description>
+		<setters>
+			<set name="category">Hex</set>
+			<set name="cost" currency="gp">100</set>
+			<set name="weight" lb="8">0.2 lbs.</set>
+			<set name="type">Hex</set>
+			<set name="rarity">Legendary</set>
+		</setters>
+	</element>
+	
+	<element name="Hex Purity 5 Evocation" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_HP5EV">
+		<description>
+			<p>A vial of a magic drug that empowers the user with the ability to cast a single Level 5 Evocation spell, and any cantrips.</p>	
+		</description>
+		<setters>
+			<set name="category">Hex</set>
+			<set name="cost" currency="gp">100</set>
+			<set name="weight" lb="8">0.2 lbs.</set>
+			<set name="type">Hex</set>
+			<set name="rarity">Legendary</set>
+		</setters>
+	</element>
+
+	<element name="Hex Purity 5 Transmutation" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_HP5T">
+		<description>
+			<p>A vial of a magic drug that empowers the user with the ability to cast a single Level 5 Transmutation spell, and any cantrips.</p>	
+		</description>
+		<setters>
+			<set name="category">Hex</set>
+			<set name="cost" currency="gp">100</set>
+			<set name="weight" lb="8">0.2 lbs.</set>
+			<set name="type">Hex</set>
+			<set name="rarity">Legendary</set>
+		</setters>
+	</element>
+
+	
+	<element name="Hex Purity 5 Necromancy" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_HP5N">
+		<description>
+			<p>A vial of a magic drug that empowers the user with the ability to cast a single Level 5 Necromancy spell, and any cantrips.</p>	
+		</description>
+		<setters>
+			<set name="category">Hex</set>
+			<set name="cost" currency="gp">100</set>
+			<set name="weight" lb="8">0.2 lbs.</set>
+			<set name="type">Hex</set>
+			<set name="rarity">Legendary</set>
+		</setters>
+	</element>
+
+	
+	<element name="Hex Purity 5 Conjuration" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_HP5C">
+		<description>
+			<p>A vial of a magic drug that empowers the user with the ability to cast a single Level 5 Conjuration spell, and any cantrips.</p>	
+		</description>
+		<setters>
+			<set name="category">Hex</set>
+			<set name="cost" currency="gp">100</set>
+			<set name="weight" lb="8">0.2 lbs.</set>
+			<set name="type">Hex</set>
+			<set name="rarity">Legendary</set>
+		</setters>
+	</element>
 </elements>
