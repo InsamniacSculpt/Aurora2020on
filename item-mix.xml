@@ -7,3 +7,16 @@
 			<file name="item-mix.xml" url="https://raw.githubusercontent.com/insamniacsculpt/AuroraHomebrew/master/item-mix.xml" />
 		</update>
 	</info>
+___________________________________________________________________________________________________________________________________________________
+	<element name="Alluring Mix" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_MIX_ALLURING">
+		<description>
+			<p>A Mix of Illusion and Transmutation Hex that acts as the Alluring Mutagen</p>	
+		</description>
+		<setters>
+			<set name="category">Hex</set>
+			<set name="cost" currency="gp">10</set>
+			<set name="weight" lb="8">0.2 lbs.</set>
+			<set name="type">Mix</set>
+			<set name="rarity">Common</set>
+		</setters>
+	</element>
