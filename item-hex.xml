@@ -7,6 +7,7 @@
 			<file name="item-hex.xml" url="https://raw.githubusercontent.com/insamniacsculpt/AuroraHomebrew/master/item-hex.xml" />
 		</update>
 	</info>
+___________________________________________________________________________________________________________________________________________________
 	<element name="Hex Purity 1 Abjuration" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_HP1A">
 		<description>
 			<p>A vial of a magic drug that empowers the user with the ability to cast a single Level 1 Abjuration spell, and any cantrips.</p>	
@@ -19,8 +20,8 @@
 			<set name="rarity">Common</set>
 		</setters>
 	</element>
-___________________________________________________________________________________________________________________________________________________
-		<element name="Hex Purity 1 Illusion" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_HP1I">
+
+	<element name="Hex Purity 1 Illusion" type="Magic Item" source="Nullification of Novus" id="ID_ITEM_HP1I">
 		<description>
 			<p>A vial of a magic drug that empowers the user with the ability to cast a single Level 1 Illusion spell, and any cantrips.</p>	
 		</description>
