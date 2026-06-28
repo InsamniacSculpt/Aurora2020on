@@ -18,6 +18,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Common</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 
@@ -44,6 +45,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Common</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 
@@ -57,6 +59,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Common</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 	
@@ -70,6 +73,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Common</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 
@@ -83,6 +87,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Common</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 
@@ -97,6 +102,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Common</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 
@@ -111,6 +117,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Common</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 ___________________________________________________________________________________________________________________________________________________
@@ -124,6 +131,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Uncommon</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 
@@ -137,6 +145,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Uncommon</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 
@@ -150,6 +159,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Uncommon</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 
@@ -163,6 +173,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Uncommon</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 	
@@ -176,6 +187,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Uncommon</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 
@@ -189,6 +201,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Uncommon</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 
@@ -203,6 +216,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Uncommon</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 
@@ -217,6 +231,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Uncommon</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 ___________________________________________________________________________________________________________________________________________________
@@ -230,6 +245,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Rare</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 
@@ -243,6 +259,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Rare</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 
@@ -256,6 +273,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Rare</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 
@@ -269,6 +287,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Rare</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 	
@@ -282,6 +301,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Rare</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 
@@ -295,6 +315,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Rare</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 
@@ -309,6 +330,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Rare</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 
@@ -323,6 +345,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Rare</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 ___________________________________________________________________________________________________________________________________________________
@@ -336,6 +359,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Very Rare</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 
@@ -349,6 +373,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Very Rare</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 
@@ -362,6 +387,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Very Rare</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 
@@ -375,6 +401,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Very Rare</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 	
@@ -388,6 +415,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Very Rare</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 
@@ -401,6 +429,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Very Rare</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 
@@ -415,6 +444,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Very Rare</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 
@@ -429,6 +459,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Very Rare</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 ___________________________________________________________________________________________________________________________________________________
@@ -442,6 +473,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Legendary</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 
@@ -455,6 +487,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Legendary</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 
@@ -468,6 +501,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Legendary</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 
@@ -481,6 +515,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Legendary</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 	
@@ -494,6 +529,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Legendary</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 
@@ -507,6 +543,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Legendary</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 
@@ -521,6 +558,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Legendary</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 
@@ -535,6 +573,7 @@ ________________________________________________________________________________
 			<set name="weight" lb="8">0.2 lbs.</set>
 			<set name="type">Hex</set>
 			<set name="rarity">Legendary</set>
+			<set name="stackable">true</set>
 		</setters>
 	</element>
 </elements>
